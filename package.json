@@ -2,7 +2,7 @@
 	"name": "vscode-hover-type-hider",
 	"displayName": "Hover Type Hider",
 	"description": "Hides the type of the variables from the mouse over boxes, making a TS method signature to look like pure JS",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "icetbr",
 	"license": "MIT",
 	"icon": "beforeAfterIcon.png",
